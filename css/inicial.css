@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+}
+
+body {
+  background-color: rgba(205, 221, 216, 0.409);
+}
+
+header {
+  line-height: 70px;
+}
+
+h1 {
+  background-color: rgba(15, 165, 98, 0.467);
+  border: solid 2px rgb(0, 0, 50);
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+  width: 175px;
+  padding-left: 10px;
+  padding-right: 25px;
+}
+
+h2 {
+  font-size: 33px;
+  padding: 35px 700px 12px 700px;
+  font-family: "Black Ops One", cursive;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Orbitron", sans-serif;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  padding-top: 20px;
+}
+
+.instrumentos {
+  display: flex;
+}
+
+footer {
+  text-align: center;
+  background-color: rgba(15, 165, 98, 0.467);
+  padding-top: 24px 0 24px 0;
+}
